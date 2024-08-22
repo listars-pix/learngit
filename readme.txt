@@ -6,3 +6,6 @@ git tracks changes.
 
 Greating a new branch is quick .
 Creating a new branch is quick & simple
+
+
+This is my new life
